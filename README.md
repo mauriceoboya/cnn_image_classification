@@ -33,4 +33,4 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/mauriceoboya/cnn_image_classification.git
-   cd Neural_Network_image_classification
+   cd cnn_image_classification
